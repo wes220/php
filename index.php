@@ -2,6 +2,8 @@
 	
 	echo "Olá Mundo, chegamos no Brasil";
 
-	echo "Muitos irão gostar"
+	echo "Olá Mundo, chegamos na Italia e passamos pela frança";
+
+	echo "Muitos irão gostar, outros nem tanto"
 
 ?>
